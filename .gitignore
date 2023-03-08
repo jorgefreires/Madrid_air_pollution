@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+
+.DS_Store
+
+__pycache__
+
+logs.log
+
+original_pollution_data
+
+pollution_data
