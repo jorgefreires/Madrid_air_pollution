@@ -3,7 +3,7 @@ import pyarrow
 import pandas as pd
 from tqdm import tqdm
 
-def limpieza(lista):
+def limpieza(lista):   # Función usada para la limpieza de los datos de tráfico
 
     dfs = []
 
