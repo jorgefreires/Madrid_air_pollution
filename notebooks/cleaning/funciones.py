@@ -13,7 +13,7 @@ def limpieza(lista):   # Función usada para la limpieza de los datos de tráfic
 
              # Se importa el archivo
 
-            df = pd.read_csv(f'../../../../../../Documents/Databases/trafic_mad/{e}', sep=';', encoding_errors='ignore')
+            df = pd.read_csv(f'path a los datos del tráfico de la ciudad de Madrid{e}', sep=';', encoding_errors='ignore')
 
             # Realmente solo me interesan las columnas fecha, y intensidad. Se borra el resto
 
